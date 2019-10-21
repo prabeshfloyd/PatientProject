@@ -9,7 +9,7 @@ Create/Update Database
 The script located in ..\PatientProject\Scripts\Database.sql needs to run on the SQL server that runs the database.
 The connection string would follow this formatting
 
-<add connectionString="Initial Catalog=PatientProject;Data Source=prabeshAILocalDB;trusted_connection=yes" name="PatientProject" providerName="System.Data.SqlClient" />
+`<add connectionString="Initial Catalog=PatientProject;Data Source=prabeshAILocalDB;trusted_connection=yes" name="PatientProject" providerName="System.Data.SqlClient" />`.
 
 Getting Started
 ---------------
